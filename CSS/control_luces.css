@@ -2,6 +2,22 @@
     position: absolute;
 }
 
+.grupo1{
+    fill: red;
+}
+
+.grupo2{
+    fill: red;
+}
+
+.grupo3{
+    fill: red;
+}
+
+.grupo4{
+    fill: red;
+}
+
 .luz1 {
     top: 1600px;
     left: 2370px;
