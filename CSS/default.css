@@ -7,11 +7,12 @@
 body {
     
     .general{
-        zoom: 1;
+        zoom: 0.5841;
     }
     
     .fondo{
-        width: 75.5%;
+        position: absolute;
+        width: 3000px;
         height: auto;
     }
     
