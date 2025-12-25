@@ -3,19 +3,19 @@
     zoom: 0.405;
 }
 
-.grupo1{
-    fill: rgba(235, 7, 7, 0.993);
+#luces1{
+    fill: rgb(235, 7, 7);
 }
 
-.grupo2{
+#luces2{
     fill: rgb(2, 255, 14);
 }
 
-.grupo3{
+#luces3{
     fill: rgb(0, 60, 255);
 }
 
-.grupo4{
+#luces4{
     fill: rgb(255, 238, 0);
 }
 
