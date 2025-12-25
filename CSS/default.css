@@ -1,22 +1,28 @@
 * {
-    margin: o;
+    margin: 0;
     font-family: system-ui;
-    height: 100%;
 }
 
 body {
-    
-    .general{
-        zoom: 0.5841;
-    }
-    
-    .fondo{
-        position: absolute;
-        width: 3000px;
-        height: auto;
-    }
-    
-
-    
-
+    width: 100%;
+    height: auto;
 }
+
+.tarjeta {
+    zoom: 0.7;
+}
+
+.arbol {
+    position: absolute;
+    width: auto;
+    height: auto;
+    border: 20px solid gray;
+}
+
+.estrella {
+    position: absolute;
+    zoom: 0.5;
+    top: 880px;
+    left: 2010px;
+}
+
