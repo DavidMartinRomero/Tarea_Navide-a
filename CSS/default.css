@@ -1,15 +1,9 @@
 * {
     margin: 0;
-    font-family: system-ui;
-}
-
-body {
-    width: 100%;
-    height: auto;
 }
 
 .tarjeta {
-    zoom: 0.7;
+    zoom: 0.5;
 }
 
 .arbol {
