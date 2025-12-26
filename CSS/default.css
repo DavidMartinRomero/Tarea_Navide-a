@@ -13,10 +13,10 @@
     border: 20px solid gray;
 }
 
-.estrella {
+#estrella {
     position: absolute;
     zoom: 0.5;
     top: 880px;
-    left: 2010px;
+    left: 2007px;
 }
 
