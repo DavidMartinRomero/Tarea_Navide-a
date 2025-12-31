@@ -10,19 +10,19 @@ var color4 = 'rgb(255, 255, 0)';
 
 setInterval(() => {
 elementos1.forEach(elemento => {
-elemento.style.fill = color1;
+elemento.style.backgroundColor = color1;
 });
 
 elementos2.forEach(elemento => {
-elemento.style.fill = color2;
+elemento.style.backgroundColor = color2;
 });
 
 elementos3.forEach(elemento => {
-elemento.style.fill = color3;
+elemento.style.backgroundColor = color3;
 });
 
 elementos4.forEach(elemento => {
-elemento.style.fill = color4;
+elemento.style.backgroundColor = color4;
 });
 
 [color1, color2, color3, color4] = [color2, color3, color4, color1];

@@ -1,5 +1,5 @@
 .letras {
-    position: absolute;
+    position: relative;
     zoom: 0.5;
     top: 100px;
     left: 1250px;
@@ -15,8 +15,8 @@
 }
 
 @keyframes pulseOpacity {
-  from { background-color: rgb(175, 62, 62); }
-  to   { background-color: rgba(175, 62, 62, 0); }
+  from { background-color: rgb(183, 55, 37); }
+  to   { background-color: rgba(183, 55, 37, 0); }
 }
 
 .fondo1{
@@ -24,25 +24,25 @@
     height: 100px;
     width: 300px;
     top: 170px;
-    left: 680px;
+    left: 685px;
     transform:  rotate(30deg);
 }
 
 .fondo2{
     position: absolute;
-    height: 100px;
-    width: 300px;    
-    top: 230px;
-    left: 930px;
+    height: 80px;
+    width: 180px;    
+    top: 250px;
+    left: 980px;
 }
 
 .fondo3{
     position: absolute;
-    height: 90px;
-    width: 300px;
-    top: 170px;
-    left: 1170px;
-    transform:  rotate(-35deg);
+    height: 80px;
+    width: 325px;
+    top: 185px;
+    left: 1147px;
+    transform:  rotate(-28deg);
 }
 
 .cuadrado1{
@@ -50,23 +50,23 @@
     height: 100px;
     width: 300px;
     top: 170px;
-    left: 680px;
+    left: 685px;
     transform:  rotate(30deg);
 }
 
 .cuadrado2{
     position: absolute;
-    height: 100px;
-    width: 300px;    
-    top: 230px;
-    left: 930px;
+    height: 80px;
+    width: 180px;    
+    top: 250px;
+    left: 980px;
 }
 
 .cuadrado3{
     position: absolute;
-    height: 90px;
-    width: 300px;
-    top: 170px;
-    left: 1170px;
-    transform:  rotate(-35deg);
+    height: 80px;
+    width: 325px;
+    top: 185px;
+    left: 1147px;
+    transform:  rotate(-28deg);
 }

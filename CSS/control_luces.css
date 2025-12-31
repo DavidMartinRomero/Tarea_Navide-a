@@ -1,22 +1,25 @@
 .luces{
     position: absolute;
-    zoom: 0.405;
+    zoom: 0.409;
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
 }
 
 .grupo1{
-    fill: rgb(235, 0, 0);
+    background-color: rgb(235, 0, 0);
 }
 
 .grupo2{
-    fill: rgb(0, 255, 0);
+    background-color: rgb(0, 255, 0);
 }
 
 .grupo3{
-    fill: rgb(0, 0, 255);
+    background-color: rgb(0, 0, 255);
 }
 
 .grupo4{
-    fill: rgb(255, 255, 0);
+    background-color: rgb(255, 255, 0);
 }
 
 .luz1 {
@@ -76,17 +79,17 @@
 
 .luz12 {
     top: 2830px;
-    left: 2570px;
+    left: 2560px;
 }
 
 .luz13 {
     top: 2875px;
-    left: 2773px;
+    left: 2753px;
 }
 
 .luz14 {
-    top: 2690px;
-    left: 3040px;
+    top: 2670px;
+    left: 3020px;
 }
 
 .luz15 {
@@ -95,23 +98,23 @@
 }
 
 .luz16 {
-    top: 2930px;
+    top: 2900px;
     left: 2070px;
 }
 
 .luz17 {
     top: 3025px;
-    left: 2210px;
+    left: 2200px;
 }
 
 .luz18 {
-    top: 2950px;
+    top: 2930px;
     left: 2380px;
 }
 
 .luz19 {
     top: 3145px;
-    left: 2620px;
+    left: 2600px;
 }
 
 .luz20 {
@@ -120,8 +123,8 @@
 }
 
 .luz21 {
-    top: 3150px;
-    left: 2950px;
+    top: 3130px;
+    left: 2920px;
 }
 
 .luz22 {
@@ -130,8 +133,8 @@
 }
 
 .luz23 {
-    top: 3290px;
-    left: 3120px;
+    top: 3270px;
+    left: 3105px;
 }
 
 .luz24 {
@@ -140,121 +143,121 @@
 }
 
 .luz25 {
-    top: 3455px;
-    left: 2845px;
+    top: 3435px;
+    left: 2825px;
 }
 
 .luz26 {
-    top: 3377px;
-    left: 2657px;
+    top: 3357px;
+    left: 2637px;
 }
 
 .luz27 {
-    top: 3540px;
-    left: 2540px;
+    top: 3510px;
+    left: 2530px;
 }
 
 .luz28 {
-    top: 3410px;
-    left: 2385px;
+    top: 3370px;
+    left: 2365px;
 }
 
 .luz29 {
-    top: 3550px;
-    left: 2250px;
+    top: 3520px;
+    left: 2230px;
 }
 
 .luz30 {
-    top: 3520px;
-    left: 2020px;
+    top: 3490px;
+    left: 2010px;
 }
 
 .luz31 {
-    top: 3480px;
+    top: 3450px;
     left: 1850px;
 }
 
 .luz32 {
-    top: 3730px;
+    top: 3700px;
     left: 1720px;
 }
 
 .luz33 {
-    top: 3935px;
+    top: 3905px;
     left: 1810px;
 }
 
 .luz34 {
-    top: 4150px;
+    top: 4110px;
     left: 1840px;
 }
 
 .luz35 {
-    top: 4080px;
+    top: 4040px;
     left: 2020px;
 }
 
 .luz36 {
-    top: 4260px;
+    top: 4220px;
     left: 2050px;
 }
 
 .luz37 {
-    top: 4180px;
+    top: 4130px;
     left: 2220px;
 }
 
 .luz38 {
-    top: 4345px;
+    top: 4280px;
     left: 2315px;
 }
 
 .luz39 {
-    top: 4220px;
+    top: 4170px;
     left: 2450px;
 }
 
 .luz40 {
-    top: 4370px;
-    left: 2545px;
+    top: 4320px;
+    left: 2525px;
 }
 
 .luz41 {
-    top: 4340px;
-    left: 2770px;
+    top: 4290px;
+    left: 2750px;
 }
 
 .luz42 {
-    top: 4160px;
-    left: 2855px;
+    top: 4110px;
+    left: 2835px;
 }
 
 .luz43 {
-    top: 4220px;
-    left: 3020px;
+    top: 4180px;
+    left: 2990px;
 }
 
 .luz44 {
-    top: 4060px;
-    left: 3110px;
+    top: 4010px;
+    left: 3080px;
 }
 
 .luz45 {
-    top: 4150px;
-    left: 3290px;
+    top: 4110px;
+    left: 3260px;
 }
 
 .luz46 {
-    top: 4060px;
-    left: 3420px;
+    top: 4010px;
+    left: 3400px;
 }
 
 .luz47{
-    top: 3920px;
-    left: 3350px;
+    top: 3870px;
+    left: 3330px;
 }
 
 .luz48{
-    top: 3790px;
-    left: 3440px;
+    top: 3740px;
+    left: 3410px;
 }
