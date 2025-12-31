@@ -2,20 +2,7 @@
     margin: 0;
 }
 
-.all {
-    width: 100%;
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-      
-    background-size: cover;
-    background-color: aqua;
-}
-
 .tarjeta {
-    max-width: 100%;
-    height: auto;
     position: relative;
 
 }
